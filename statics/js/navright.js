@@ -1,0 +1,1 @@
+document.writeln("<ul class=\'navbar-right\'> <li> <a href=\'#\'> 收藏网站 </a> </li> <li> <a href=\'#\'> 投诉与建议 </a> </li> </ul>");
