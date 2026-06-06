@@ -2,7 +2,7 @@ html {text-align: center;}body {font-family: "MicrosoftYaHei", "Helvetica Neue",
 input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border: none;}p,ul,ol,li,form {margin: 0;padding: 0;list-style: none;}a {text-decoration: none;color: #555;}a:hover {text-decoration: none;}.clear {clear: both;}
 /** header **/
 .head{margin:0px auto;max-width:1155px;width:1200px;padding:0 20px;background:#fff;}
-.header{width:100%;height:auto;clear: both;overflow: hidden;background:#333333;}
+.header{width:100%;height:auto;clear: both;overflow: hidden;background:#78989d;}
 .logo{width:auto;height:32px; display:block; padding-top:6px;}
 .navbar{clear:both;position:relative;z-index:1}
 .navbar-left li{float:left;display:block;text-align:center;position:relative}
