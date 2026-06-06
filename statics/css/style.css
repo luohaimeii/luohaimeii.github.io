@@ -17,7 +17,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .locawz .locawzleft a {	color: #333;}
 .locawz .locawzright { width:58%; float: right;	color:#fef507; height:40px;	font: 14px/52px 微软雅黑; line-height:60px; margin-right:10px; text-align:right; display:block; overflow:hidden;}
 .fenleitit{ width:100%; height:40px; line-height:40px; text-align:center;  display:block; margin:20px auto;  }
-.fenleitit a{ color:#fff; font-size:38px; background:#5d6867; height:40px; padding:0px 15px 2px 15px; border-radius:8px; }
+.fenleitit a{ color:#fff; font-size:38px; background:#79989d; height:40px; padding:0px 15px 2px 15px; border-radius:8px; }
 .fenleitit span{ font-size:20px; padding:0px 8px; color:#555;}
 .fenleititx{ width:1200px; height:40px; line-height:60px; text-align:center; font-size:15px; display:block; margin:0px auto; color:#eee; overflow:hidden;}
 /** Encyclopedia **/
@@ -78,7 +78,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .wenzabout div {font: 16px/40px "微软雅黑";color: #fff;text-align:center;border-radius:8px; display:block; float:left;}
 .wenzabout div a {color: #fff; font-size:15px; text-decoration:none;}
 .wenzabout div a:hover{color:#eee;}
-.nextxs{ width:31%; background:#5d6867;  margin:0px 1%;}
+.nextxs{ width:31%; background:#79989d;  margin:0px 1%;}
 .fhmulu{ width:32%; background:#ff8822;  margin:0px 1%; }
 /* author */ 
 .ppyouce{width:340px; display:block; float:right; overflow:hidden; }
@@ -104,7 +104,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .links{ width:1180px; height:auto; display:block; margin:10px auto;  overflow:hidden; color:#333; padding:10px;}
 .links ul li{ display:block; float:left; margin:5px; font-size:14px;}
 .links ul li a{color:#333;}
-.shang a{ font-size:38px; color:#fff; font-weight:bold;border-radius:30px; width:50px; height:50px; display:block; position:fixed; right:2px; bottom:2px; background:#5d6867; text-align:center;}
+.shang a{ font-size:38px; color:#fff; font-weight:bold;border-radius:30px; width:50px; height:50px; display:block; position:fixed; right:2px; bottom:2px; background:#79989d; text-align:center;}
 .banquan{ width:1160px; height:auto; background:#fff; display:block; margin:10px auto; font-size:14px; color:#555; line-height:30px; text-align:left; padding:10px 20px; overflow:hidden;}
 /* footer */ 
 .footer{ width:100%; height:86px;  background:#333333; line-height:32px; color:#fff; padding-top:10px;font-size:13px; overflow:hidden;}
@@ -115,7 +115,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .arcfenl{ width:1160px; display:block; margin:15px auto -25px; background:#f6f4ec; line-height:46px; padding:5px 10px; overflow:hidden;}
 .arcfenl a{ background:#fff; padding:0px 6px; border-radius:5px; color:#555; display:block; float:left; margin:4px; height:32px; line-height:32px;}
 .indexjianjie{ width:1160px; display:block; margin:10px auto; background:#f5f5f5; line-height:30px; padding:10px; text-align:left; font-size:14px; color:#888; border-radius:10px; overflow:hidden;}
-.cibiaotti{ width:200px; height:60px; display:block; float:left;background: #5d6867; text-align:center; line-height:60px; margin:5px 0px; border-radius:10px; }
+.cibiaotti{ width:200px; height:60px; display:block; float:left;background: #79989d; text-align:center; line-height:60px; margin:5px 0px; border-radius:10px; }
 .cibiaotti a{color: #fff; font-size: 32px;  }
 .cineiyou{ width:940px; display:block; float:right; height:60px; overflow:hidden;margin:5px 0px; }
 .arcfenlei{height:auto;border-left:#cccccc solid 1px; width:100%; display:block; overflow:hidden;}
@@ -123,19 +123,19 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .arcfenlei li.off{background:#ca0909;color: White;font-weight:bold;}
 .wenshoufen{height:44px; display:block; margin:10px auto; text-align:center; width:1180px; padding:10px; background:#fff;}
 .wenshoufen li{float:left;width:32.5%;text-align:center;line-height:44px;height:44px;cursor:pointer; font-size:16px;overflow:hidden;background:#eee; margin-right:0.8%; }
-.wenshoufen li.off{background:#5d6867;color: White;}
+.wenshoufen li.off{background:#79989d;color: White;}
 .zhuantifen{height:44px; display:block; margin:10px auto; text-align:center; width:1180px; padding:10px; background:#fff;}
 .zhuantifen li{float:left;width:33%;text-align:center;line-height:44px;height:44px;cursor:pointer; font-size:16px;overflow:hidden;background:#eee; border-right:1px solid #ddd;}
-.zhuantifen li.off{background:#5d6867;color: White;}
+.zhuantifen li.off{background:#79989d;color: White;}
 .shoufen{height:50px; display:block; margin:10px auto; text-align:center; width:1180px; padding:10px; background:#fff;}
-.shoufen li{float:left;width:24%;text-align:center;line-height:50px;height:50px;cursor:pointer; font-size:17px;overflow:hidden;background:#5d6867; margin-right:1%; border-radius:5px;color:#fff;}
+.shoufen li{float:left;width:24%;text-align:center;line-height:50px;height:50px;cursor:pointer; font-size:17px;overflow:hidden;background:#79989d; margin-right:1%; border-radius:5px;color:#fff;}
 .shoufen li a{ color:#fff;width:100%; height:100%; display:block; }
-.shoufen li.off{background:#5d6867;color:#fff;}
+.shoufen li.off{background:#79989d;color:#fff;}
 .menudiv{height:auto;border:#cccccc solid 1px; background:#fefefe}
 .menudiv div{padding:15px;line-height:28px;}
 .conindex{width:1180px;  margin:10px auto; padding:10px; background:#fff; display:block; font-size:15px; line-height:32px; color:#555;   }
 .fznxti{ position:sticky; top:0px; width:100%; display:block;  background:#fff; overflow:hidden;  }
-.fznxti a{ background:#5d6867;  margin:3px 5px 3px 0px; float:left;  color:#fff; display:block; text-align:left; padding:0px 15px; height:32px; line-height:32px; border-radius:6px;}
+.fznxti a{ background:#79989d;  margin:3px 5px 3px 0px; float:left;  color:#fff; display:block; text-align:left; padding:0px 15px; height:32px; line-height:32px; border-radius:6px;}
 .indexwwe{padding-top: 30px; margin-top: -30px; width:100%;text-align:left;  }
 .wenfd{ background:#eee; color:#555; width:100%; font-size:15px; padding:2px 0px; text-align:center; margin:10px auto; }
 .indexyou{}
@@ -175,7 +175,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .banquan{ width:920px; display:block; margin:10px auto;}
 .xgfenl{ width:940px;}
 .indexjianjie{ width:920px; }
-.cibiaotti{ width:175px; height:60px; display:block; float:left;background: #5d6867; text-align:center; line-height:60px; margin:5px 0px; border-radius:10px; }
+.cibiaotti{ width:175px; height:60px; display:block; float:left;background: #79989d; text-align:center; line-height:60px; margin:5px 0px; border-radius:10px; }
 .cibiaotti a{color: #fff; font-size: 32px;  }
 .cineiyou{ width:730px; display:block; float:right; height:60px; overflow:hidden;margin:5px 0px; }
 .conindex{width:940px;}
@@ -195,7 +195,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .locacent{display:block;}
 .locawz {display:block; overflow:hidden;}
 .fenleitit{ width:100%; height:40px; line-height:40px; text-align:center;  display:block; margin:50px auto 0px;  }
-.fenleitit a{ color:#fff; font-size:38px; background:#5d6867; height:40px; padding:0px 15px 2px 15px; border-radius:8px; }
+.fenleitit a{ color:#fff; font-size:38px; background:#79989d; height:40px; padding:0px 15px 2px 15px; border-radius:8px; }
 .fenleitit span{ font-size:20px; padding:0px 8px; color:#555;}
 .indexzong{width:97%;margin:-80px auto 20px; display:block; overflow:hidden;background:#fff; border-top-left-radius:10px;border-top-right-radius:10px;-webkit-box-shadow: 0 0 5px #dfe8f2;box-shadow: 0 0 5px #dfe8f2;}
 .indexfu{width:97%;margin:10px auto 20px; display:block; overflow:hidden;background:#fff; border-top-left-radius:10px;border-top-right-radius:10px;-webkit-box-shadow: 0 0 5px #dfe8f2;box-shadow: 0 0 5px #dfe8f2;}
@@ -239,7 +239,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .wenzabout div {font: 17px/40px "微软雅黑";color: #fff;text-align:center;border-radius:8px; display:block; float:left;}
 .wenzabout div a {color: #fff; font-size:17px; text-decoration:none;}
 .wenzabout div a:hover{color:#eee;}
-.nextxs{ width:31%; background:#5d6867;  margin:0px 1%;}
+.nextxs{ width:31%; background:#79989d;  margin:0px 1%;}
 .fhmulu{ width:32%; background:#ff8822;  margin:0px 1%; }
 .footdibu{ width:100%; height:36px; line-height:36px; display:block; margin:10px auto;}
 .zhengwen ul li{ width:50%; display:block; float:left; border-bottom:1px  dashed #ddd; height:38px;  overflow:hidden; text-align:left; text-indent:22px; font-size:14px; background:url(/statics/picture/btnactive.png) no-repeat left center;}
@@ -248,7 +248,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .xgfenl{ width:95%;}
 .xgfenl a{background:#efefef; padding:0px 5px; border-radius:5px; color:#555; display:block; float:left; margin:3px; height:30px; line-height:30px;}
 .indexjianjie{ width:94%;overflow:hidden; }
-.cibiaotti{ width:100%; height:50px; display:block; float:left;background: #5d6867; text-align:center; line-height:50px; margin:5px 0px; border-radius:8px; }
+.cibiaotti{ width:100%; height:50px; display:block; float:left;background: #79989d; text-align:center; line-height:50px; margin:5px 0px; border-radius:8px; }
 .cibiaotti a{color: #fff; font-size: 28px;  }
 .cineiyou{ display:none; }
 .conindex{width:95%;}
