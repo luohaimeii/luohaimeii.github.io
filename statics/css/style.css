@@ -16,7 +16,7 @@ input { font: 10pt Verdana, Arial, Helvetica, sans-serif, "宋体"; }img {border
 .locawz .locawzleft {width: 40%;	font: 14px/40px "微软雅黑";	color: #333;float: left; text-align:left; text-indent:20px; line-height:60px; height:60px;}
 .locawz .locawzleft a {	color: #333;}
 .locawz .locawzright { width:58%; float: right;	color:#fef507; height:40px;	font: 14px/52px 微软雅黑; line-height:60px; margin-right:10px; text-align:right; display:block; overflow:hidden;}
-.fenleitit{ width:500px; height:40px; line-height:40px; text-align:center;  display:block; margin:20px auto;  }
+.fenleitit{ width:100%; height:40px; line-height:40px; text-align:center;  display:block; margin:20px auto;  }
 .fenleitit a{ color:#fff; font-size:38px; background:#5d6867; height:40px; padding:0px 15px 2px 15px; border-radius:8px; }
 .fenleitit span{ font-size:20px; padding:0px 8px; color:#555;}
 .fenleititx{ width:1200px; height:40px; line-height:60px; text-align:center; font-size:15px; display:block; margin:0px auto; color:#eee; overflow:hidden;}
