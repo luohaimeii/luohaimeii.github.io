@@ -1,0 +1,9 @@
+{
+  "name": "husir-static-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:static": "HUSIR_STATIC_PATCH_ONLY=1 HUSIR_STATIC_OUT=. node .github/scripts/generate-static-site.mjs"
+  }
+}

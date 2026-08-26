@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  repository_dispatch:
+    types: [content_updated, rebuild_requested]
 
 permissions:
   contents: read
@@ -23,6 +25,16 @@ jobs:
     steps:
       - name: Checkout static site
         uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply D1 content overrides
+        run: npm run build:static
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: a142aee0472883b8da0a55ba51e3fb05
+          CLOUDFLARE_D1_DATABASE_ID: bb84976f-be65-48ec-9c4c-fd8ab2b12e07
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload static site
