@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="476" height="108" viewBox="0 0 476 108" role="img" aria-label="虎思国学网">
+  <rect width="92" height="92" x="8" y="8" rx="8" fill="#b58b3a"/><rect width="76" height="76" x="16" y="16" rx="4" fill="#102a43" stroke="#f3dc9a" stroke-width="2"/>
+  <path d="M28 31h52M28 77h52M31 28v52M77 28v52" stroke="#b58b3a" stroke-width="2" opacity=".8"/>
+  <text x="54" y="68" text-anchor="middle" fill="#fff7dc" font-size="45" font-family="serif">虎</text>
+  <text x="116" y="63" fill="#fff7dc" font-size="42" font-family="serif" font-weight="700" letter-spacing="5">虎思国学网</text>
+  <text x="120" y="89" fill="#d9c383" font-size="14" font-family="serif" letter-spacing="5">经史子集 · 在线典藏</text>
+</svg>
